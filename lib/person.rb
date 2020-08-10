@@ -3,6 +3,3 @@ class Person
     puts "Hello World!"
 end
 
-ada = Person.new 
-ada.talk
-
