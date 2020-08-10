@@ -1,7 +1,7 @@
 class Person
-  def Talk
+  def talk
     puts "Hello World!"
 end
 
 ada = Person.new 
-ada.Talk
+ada.talk
